@@ -1,0 +1,18 @@
+.connect-wallet {
+    text-align: center;
+    padding: 30vh;
+    height: 100vh;
+}
+
+.wallet-connected {
+    min-height: 100vh;
+    padding: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.table {
+    margin: 45px 0;
+}
